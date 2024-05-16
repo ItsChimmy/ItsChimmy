@@ -91,3 +91,5 @@
 ## Stats
 
 [My own Services' Uptime](https://status.chimmy.xyz/)
+
+![ItsChimmy's Github Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsChimmy&layout=compact&theme=dracula)
