@@ -7,10 +7,6 @@
 
 <br/>
 
-## About Me
-
-![Discord Status](https://discord.c99.nl/widget/theme-3/458129248259932165.png)
-
 ### Contact Me:
 <a href="mailto:chimmy@chimmy.xyz"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40"/></a>
 
