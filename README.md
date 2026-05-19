@@ -34,7 +34,7 @@
     </td>
   </tr>
   <tr>
-    <td>Backend Development Languages</td>
+    <td>Languages</td>
     <td>
       <a href="Python"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40"/></a>
       <a href="SQL"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/></a>
