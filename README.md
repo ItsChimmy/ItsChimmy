@@ -38,10 +38,9 @@
     <td>
       <a href="Python"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40"/></a>
       <a href="SQL"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/></a>
-      <a href="HTML"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40" height="40"/></a>
-      <a href="CSS"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40" height="40"/></a>
-      <a href="BASH"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/></a>
-      <a href="PHP"><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="40" height="40"/></a>
+      <a href="Java"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" height="40"/></a>
+      <a href="Go"><img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" width="40" height="40"/></a>
+      <a href="Dart"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/></a>
     </td>
   </tr>
   <tr>
