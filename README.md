@@ -1,9 +1,9 @@
 # Hey there! I'm Chimmy
 
 ### Systems Administrator / DevOps / Platform Engineer
-- I'm currently Systems Administator for about `16` Different Linux servers, handling their requests and maintaining it.
-- I'm currently learning: Java, PHP, JavaScript
-- Linux is the coolest Kernel ever made.
+- I'm currently Systems Administator for about `12` Clients (Linux servers), handling their requests and maintaining it.
+- I'm currently learning: Golang, Dart, Flutter
+- Works with linux servers daily!
 
 <br/>
 
@@ -82,9 +82,3 @@
 - [SkySim Network](https://skysim.sbs/)
 
 <br/>
-
-## Stats
-
-[My own Services' Uptime](https://status.chimmy.xyz/)
-
-![ItsChimmy's Github Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsChimmy&layout=compact&theme=dracula)
